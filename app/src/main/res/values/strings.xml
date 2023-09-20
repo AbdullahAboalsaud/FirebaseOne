@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseOne</string>
+    <string name="parent">parent</string>
+    <string name="children">Children</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+</resources>
